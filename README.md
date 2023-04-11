@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afuahsekyiwaaadusei
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently an ALX student
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me afuahsekyiwaaadusei@gmail.com
 
