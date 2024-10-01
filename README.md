@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @afuahsekyiwaaadusei
-- 🌱 I’m currently an ALX student
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me afuahsekyiwaaadusei@gmail.com
+- 📫 How to reach me afuahsekyiwaaa@gmail.com
 
 <!---
 afuahsekyiwaaadusei/afuahsekyiwaaadusei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
